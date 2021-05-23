@@ -6,7 +6,7 @@ translation_author: victorb
 
 One of the goals of the creation of the group is defending the open source; and the privacy of everyone. When we talk about it around us, the most frequent answer is kind of "But Google services are so useful! And it's free, how could I replace them?".
 
-And this is right; Google Drive, Docs, YouTube, but also WhatsApp and Messenger, Facebook... All these services are all free, and work really well. But we don't introduce anymore the disastrous policy of data management of Mark Zuckerberg's social network, between others.
+And this is right; Google Drive, Docs, YouTube, but also WhatsApp and Messenger, Facebook... All these services are free, and work really well. But we don't introduce anymore the disastrous policy of data management of Mark Zuckerberg's social network, between others.
 
 And, as says well the Free Software Foundation, we think that each program should allow its users to read its source code. To be able to ensure their privacy is respected, between other!
 
@@ -43,7 +43,7 @@ But it's not always that easy, and you may not want spend time doing that. In th
 
 #### Signal
 
-To replace WhatsApp or Messenger, Signal is a good open source application, which works with the same manner: you give him your phone number to create an account and you can communicate with other who installed the app. It encrypts all your messages so that no other one can read it, and it's even possible to block the access to the application with a biometric authentication or a password.
+To replace WhatsApp or Messenger, Signal is a good open source application, which works with the same manner: you give your phone number to create an account and you can communicate with other who installed the app. It encrypts all your messages so that no other one can read it, and it's even possible to block the access to the application with a biometric authentication or a password.
 
 #### Telegram
 
